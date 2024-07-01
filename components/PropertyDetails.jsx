@@ -7,6 +7,7 @@ import {
   FaCheck,
   FaMapMarker,
 } from "react-icons/fa";
+import Spinner from "./Spinner";
 
 const PropertyDetails = ({ property }) => {
   return (
